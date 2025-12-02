@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "入水願い",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-02T15:29:26.993624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "入水願い",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_入水願い_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "入水願い",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_入水願い_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jusui Negai [入水願い]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/03_Jusui_Negai_[入水願い]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jusui Negai (入水願い)",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/04_Jusui_Negai_(入水願い)_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "入水願い",
+      "artist": "東京事変 [Tokyo Incidents]",
+      "has_synced": false,
+      "path": "select/05_入水願い_東京事変_[Tokyo_Incidents].txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "入水願い",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_入水願い_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "入水願い",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_入水願い_東京事変.txt"
+    }
+  ]
+}
